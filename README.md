@@ -8,13 +8,12 @@ This project explores real-world job market data using SQL (PostgreSQL) to uncov
 The goal is to understand what skills are most valuable in today’s data job market, and build a strong portfolio project for data analyst roles.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 **About Me**
-Ana Araujo
-Healthcare Informatics Intern | Aspiring Data Analyst | Information Technology Student
+Ana Araujo | 
+Healthcare Informatics Intern | Aspiring Data Analyst | Information Technology Student |
 Massachusetts, USA
 
 This project is part of my transition into a data analytics career.
-
-JUNE 2026
+Project developed in: JUNE 2026
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 **Credits**: **This project is based on a guided dataset from Luke Barousse, with all analysis performed using SQL in PostgreSQL via VS Code.**
 
