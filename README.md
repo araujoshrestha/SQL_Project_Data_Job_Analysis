@@ -21,11 +21,11 @@ JUNE 2026
 **Project Goals**
 As an aspiring data analyst, this project was built to answer key career questions:
 
-💰 Which data-related jobs pay the most?
-🧠 What skills appear most frequently in job postings?
-📈 Which skills are associated with higher salaries?
-⚖️ What skills offer the best balance of demand and pay?
-🚀 What should I focus on learning to maximize career opportunities?
+1) Which data-related jobs pay the most?
+2) What skills appear most frequently in job postings?
+3) Which skills are associated with higher salaries?
+4) What skills offer the best balance of demand and pay?
+5) What should I focus on learning to maximize career opportunities?
 
 **Project Structure**
 all_folders/sql_load/
